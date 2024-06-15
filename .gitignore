@@ -1,0 +1,9 @@
+# notebooks
+.ipynb_checkpoints/
+
+# cache, data files
+cache/
+data.csv.gz
+dict.pkl
+radiomics.csv.gz
+sample_data/
